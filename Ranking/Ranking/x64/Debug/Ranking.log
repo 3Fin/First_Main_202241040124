@@ -1,0 +1,3 @@
+﻿  源.cpp
+D:\First_Main_202241040124\First_Main_202241040124\Ranking\Ranking\源.cpp(28,9): warning C4101: “i”: 未引用的局部变量
+  Ranking.vcxproj -> D:\First_Main_202241040124\First_Main_202241040124\Ranking\x64\Debug\Ranking.exe
